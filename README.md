@@ -23,15 +23,18 @@ Health Copilot is an AI-powered health tracking application built with Copilotki
 
 ## Getting Started
 1. Clone the repository
-2. Install dependencies:
+      ```
+   git clone https://github.com/avaxia888/health_tracking_copilot.git
+   ```
+3. In the project root install dependencies:
    ```
    npm install
    ```
-3. Run the development server:
+4. Run the development server:
    ```
    npm run dev
    ```
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Usage
 - Select a date to log your activities
